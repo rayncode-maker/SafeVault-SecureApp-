@@ -1,0 +1,19 @@
+/SafeVault-SecureApp
+│
+├── app/
+│   ├── __init__.py
+│   ├── input_validation.py
+│   ├── auth.py
+│   └── routes.py
+│
+├── templates/
+│   ├── base.html
+│   └── *.jinja2
+│
+├── tests/
+│   ├── test_security.py
+│   └── test_routes.py
+│
+├── SECURITY.md
+├── README.md
+└── requirements.txt
